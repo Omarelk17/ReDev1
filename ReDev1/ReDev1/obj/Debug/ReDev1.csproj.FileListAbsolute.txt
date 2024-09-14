@@ -1,0 +1,7 @@
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\obj\Debug\ReDev1.csproj.AssemblyReference.cache
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\obj\Debug\ReDev1.csproj.CoreCompileInputs.cache
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\bin\Debug\ReDev1.exe.config
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\bin\Debug\ReDev1.exe
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\bin\Debug\ReDev1.pdb
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\obj\Debug\ReDev1.exe
+C:\Users\elkomaa\source\repos\ReDev1\ReDev1\obj\Debug\ReDev1.pdb
